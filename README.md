@@ -7,7 +7,7 @@ matched.
 For example, { [ ( ] ) } is not balanced because the contents in
 between { and } are not balanced. The pair of square brackets encloses a single,
 unbalanced opening bracket, (, and the pair of parentheses encloses a single,
-unbalanced closing square bracket, ].
+unbalanced closing square bracket, ).
 By this logic, we say a sequence of brackets is balanced if the following conditions
 are met:
 1. It contains no unmatched brackets.
